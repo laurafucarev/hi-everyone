@@ -3,4 +3,4 @@ hi world!
 I'm very excited to be here.
 Have a nice day!
 
-dits suck
+diets suck
